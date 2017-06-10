@@ -3,6 +3,5 @@
 # Author: Rui Liu
 # Email: CTLAB.RuiLiu@gmail.com
 # Version: 1.1
-# The Distance driven, branchless distance driven, pseudo Distance driven are verified while the volume rendering and Siddon's
-# algorithm still have problems. (TODO)
+# The Distance driven, branchless distance driven, pseudo Distance driven are verified while the volume rendering and Siddon's algorithm still have problems. (TODO)
 
